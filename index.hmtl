@@ -1,1 +1,39 @@
-<h1> Hello World </h1>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MadForMindre Privacy Policy</title>
+</head>
+
+<body>
+
+    <h1>MadForMindre Privacy Policy</h1>
+
+    <p><strong>Last Updated:</strong> [Date]</p>
+
+    <h2>1. Introduction</h2>
+    <p>Welcome to MadForMindre. This Privacy Policy is designed to inform users of our application about how we handle personal data.</p>
+
+    <h2>2. Data We Collect</h2>
+    <p>MadForMindre does not collect, store, or process any personal data from its users. The application functions without needing access to your personal details.</p>
+
+    <h2>3. Use of Data</h2>
+    <p>Since we do not collect any personal data, we do not use, share, or disclose any information.</p>
+
+    <h2>4. Third-Party Advertisements</h2>
+    <p>While we do not collect personal data, our app does display ads from third-party providers. These providers may use their methods to collect data and target ads to users. We recommend reviewing the respective privacy policies of these third-party ad providers to understand their data practices.</p>
+
+    <h2>5. Your Rights</h2>
+    <p>Under the General Data Protection Regulation (GDPR), users in Europe have the right to access, rectify, or erase any personal data we might have collected (even though we do not collect any). If you have concerns or questions, please contact us at <a href="mailto:[jacob.tuxensei@outlook.com]">[jacob.tuxensei@outlook.com]</a>.</p>
+
+    <h2>6. Changes to This Policy</h2>
+    <p>We reserve the right to update our Privacy Policy as necessary. Any significant changes will be notified within the application.</p>
+
+    <h2>7. Contact</h2>
+    <p>For any questions or concerns regarding this Privacy Policy, please contact us at <a href="mailto:[jacob.tuxensei@outlook.com]">[jacob.tuxensei@outlook.com]</a>.</p>
+
+</body>
+
+</html>
